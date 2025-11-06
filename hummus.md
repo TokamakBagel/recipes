@@ -1,6 +1,6 @@
 # Hummus
 ## Ingredients
-* chickpeas
+* chickpeas/garbanzo beans
 * lemon
 * olive oil
 * salt
